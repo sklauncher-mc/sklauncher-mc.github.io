@@ -1,4 +1,4 @@
-<head><link rel="shortcut icon" type="image/x-icon" href="https://github.com/sklauncher-mc/sklauncher-mc.github.io/blob/main/mc.ico"></head>
+<head><link rel="shortcut icon" type="image/x-icon" href="mc.ico"></head>
 
 [![Download Button](https://github.com/sklauncher-mc/sklauncher-mc.github.io/blob/main/Download-Button.png?raw=true)](https://minecraftsync/get-sklauncher-pc)
 
